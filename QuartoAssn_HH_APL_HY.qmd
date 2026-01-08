@@ -1,0 +1,16 @@
+---
+title: "Quarto_HH_APL_HY"
+author: "Hannah Hayes, Haleigh Yang, Andrea Paz-Lacavex"
+date: 2026-01-07
+format: gfm
+---
+
+# Happy New Year!
+
+## My Year in Review
+
+I *love* **SCUBA** so so much!
+
+```         
+10 + 20 
+```
